@@ -8,9 +8,7 @@ This is a simple blogging website that allows users to write, edit, and publish 
 - **Create, Edit, and Delete Posts**: Users can create new blog posts, edit existing ones, and delete them if needed.
 - **Commenting System**: Registered users can leave comments on blog posts.
 - **Categories and Tags**: Blog posts can be categorized and tagged for better organization.
-- **Search Functionality**: Users can search for blog posts based on keywords.
-- **Responsive Design**: Mobile-friendly design to ensure good user experience across devices.
-  
+
 ## Technologies Used
 - **Frontend**:
   - HTML5
