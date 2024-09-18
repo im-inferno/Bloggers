@@ -31,4 +31,13 @@ This is a simple blogging website that allows users to write, edit, and publish 
 - Node.js (for JavaScript backend)
 - MongoDB
 - A text editor (e.g., VSCode)
+## Installation Guide
+
+### Prerequisites
+- Node.js (for JavaScript backend)
+- MongoDB or other database systems
+- A text editor (e.g., VSCode)
+
+### Steps to Run the Project
+- node server.js
 
